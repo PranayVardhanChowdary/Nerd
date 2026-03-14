@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://imgur.com/pBJRVmv.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Ticket Sauce</h3>
+  <h3 align="center">Nerd books</h3>
 
   <p align="center">
     A desktop app that lets you book tickets for show timings according to your convenience!

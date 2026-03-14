@@ -22,9 +22,7 @@
 * <a href="https://github.com/PranayVardhanChowdary"><b>Pranay vardhan</b></a> - Full-stack & Database
 
 ## About the Project
-<p align="center">
-<img style="margin:1em" src="https://imgur.com/42BKsGp.png" width="100%"/>
-</p>
+  Nerd is a modern online movie ticket booking application designed to simplify the process of discovering movies, checking showtimes, and reserving seats at nearby cinemas. The platform enables users to browse current and upcoming movie releases, select their preferred theatres and showtimes, and securely purchase tickets through an intuitive and user-friendly interface.
 
 ### Pages
 * Login

@@ -12,16 +12,14 @@
     <br />
     View Demo
     ·
-    <a href="https://github.com/SakshiUppoor/ticket-sauce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SakshiUppoor/ticket-sauce/issues">Request Feature</a>
+   
   </p>
 </p>
 
 ## Team
-* <a href="https://github.com/Rutugaglani"><b>Rutu Gaglani</b></a> - Frontend & Graphic Design
-* <a href="https://github.com/SharayuBokde"><b>Sharayu Bokde</b></a> - Frontend & Graphic Design
-* <a href="https://github.com/SakshiUppoor"><b>Sakshi Uppoor</b></a> - Full-stack & Database
+
+* <a href="https://github.com/Dheerajketa"><b>Dheeraj keta </b></a> - Frontend & Graphic Design
+* <a href="https://github.com/SakshiUppoor"><b>Pranay vadrhan</b></a> - Full-stack & Database
 
 ## About the Project
 <p align="center">

@@ -19,7 +19,7 @@
 ## Team
 
 * <a href="https://github.com/Dheerajketa"><b>Dheeraj keta </b></a> - Frontend & Graphic Design
-* <a href="https://github.com/SakshiUppoor"><b>Pranay vadrhan</b></a> - Full-stack & Database
+* <a href="https://github.com/PranayVardhanChowdary"><b>Pranay vardhan</b></a> - Full-stack & Database
 
 ## About the Project
 <p align="center">
